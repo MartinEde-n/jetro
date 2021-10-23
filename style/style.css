@@ -8,3 +8,7 @@ body{
 header{
 	background-color: rgb(10, 202, 68);
 }
+
+section{
+	background-color: cyan;
+}
